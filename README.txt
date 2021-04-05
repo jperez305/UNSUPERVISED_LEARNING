@@ -1,4 +1,4 @@
-For code visit: https://github.com/jperez305/Randomized-Optimization
+For code visit: https://github.com/jperez305/UNSUPERVISED_LEARNING
 
 # Randomized-Optimization
 
